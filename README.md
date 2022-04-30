@@ -6,7 +6,6 @@ Calls clang-format on all `.cc` files in the current directory.
 
 ```
 npm install -g clang-format
-
 ```
 
 You will also of course need a python3 compilier. 
