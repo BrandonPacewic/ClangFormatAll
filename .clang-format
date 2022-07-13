@@ -1,5 +1,10 @@
-# Run manually to reformat a file:
-# clang-format -i --style=file <file>
+# Copyright (c) Brandon Pacewic
+# SPDX-License-Identifier: MIT
+
+# Example clang format file, my default settings.
+# See the clang-format documentation for more details:
+#   http://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
 Language: Cpp
 BasedOnStyle: Google
 IndentWidth: 4
