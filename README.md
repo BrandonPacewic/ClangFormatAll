@@ -5,11 +5,11 @@ Clang format all is a script used to more efficiently call clang-format on a lar
 ## Usage
 
 ```bash
-format_all
+> format_all
 ```
 
 ```Output
-Formatted 0 files in 0.000
+> Formatted 0 files in 0.000
 ```
 
 The clang-format tool will automatically take the formatting options stored in the `.clang-format` file.
